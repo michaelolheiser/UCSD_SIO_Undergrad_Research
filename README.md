@@ -5,4 +5,4 @@ I studied under Dr. Joel Norris of UC San Diego's Scripps Institution of Oceanog
 we investigated if Global Climate models had a global warming signature. The result was inconclusive as there was no obvious trend among competing models 
 in terms of low stratocummulus cloud cover changes. 
 
-Overall it was a remarkable experience to get introduced to Matlab and studying Climate Models and in general, presenting research to industry experts. 
+Overall it was a remarkable experience to get introduced to Matlab and studying Climate Models and presenting research at the 2014 AGU Fall Conference in San Francisco, CA.
