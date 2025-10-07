@@ -1,7 +1,7 @@
-tl;dr: Undergraduate research at the Scripps Institution of Oceanography in La Jolla, CA during the Summer of 2013
+tl;dr: Undergraduate research at the Scripps Institution of Oceanography in La Jolla, CA during the Summer of 2013.
 Under the supervision of Dr. Joel Norris' Climate research group, I compared cloud cover trends of 6 different climate models using Matlab. 
 This research was presented in a poster session at the 2014 American Geophysical Union Fall Conference. 
-The rest of this ReadMe is the formatted poster text. 
+The rest of this README is the formatted poster text. 
 
 
 # Is a Low Cloud Signal in Response to CO₂ Forcing Observable?
