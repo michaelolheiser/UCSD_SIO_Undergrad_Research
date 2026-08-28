@@ -1,7 +1,7 @@
 tl;dr: Undergraduate research at the Scripps Institution of Oceanography in La Jolla, CA during the Summer of 2013.
 Under the supervision of Dr. Joel Norris' Climate research group, I compared cloud cover trends of 6 different climate models using Matlab. 
-This research was presented in a poster session at the 2014 American Geophysical Union Fall Conference. 
-The rest of this README is the formatted poster text. 
+This research was presented in a poster session at the 2014 American Geophysical Union Fall Conference (link: https://studio.m-anage.com/agu/fm14/webprogram/Paper26844.html)
+The rest of this README is the abstract and formatted poster text. 
 
 
 # Is a Low Cloud Signal in Response to CO₂ Forcing Observable?
@@ -11,6 +11,11 @@ The rest of this README is the formatted poster text.
 † molheiser10@winona.edu  ‡ jnorris@ucsd.edu  
 
 ---
+
+## Abstract
+
+Abstract:
+Low-level clouds in the subsidence regime of the subtropical ocean have a net cooling affect on the climate and are an important factor to consider in regards to climate change. This study looks at the cloud fraction output from 6 different CMIP5 global climate models to understand how low-level clouds may respond to increasing CO2 on different time scales. We examine simulations of 1% CO2 increase per year, simulations of 4xCO2 equilibrium change, and simulations employing historical radiative forcing during 1980-2005. In particular, we are interested to determine whether the century-scale transient cloud response is similar to the equilibrium cloud response, and whether simulated cloud changes occurring since 1980 are similar to the century-scale transient cloud response. Although different models produce different cloud responses to increasing CO2, the transient cloud change for a particular model resembles the equilibrium cloud change for that model, indicating internal consistency. Furthermore, if the simulated cloud change since 1980 resembles the century-scale transient cloud change, this would suggest that observed low-level cloud changes over the subtropical ocean since 1980 may be a response to climate change rather than natural variability.
 
 ## Introduction
 Low stratocumulus clouds have a net cooling effect on the earth. This is due to their thickness, which provides a high albedo to reflect solar radiation back to space, as well as their weak greenhouse effect.  
